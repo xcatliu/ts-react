@@ -1,0 +1,10 @@
+# 系统级
+.DS_Store
+.idea
+*.log
+
+# 本地依赖
+node_modules
+
+# 生成的文件
+dist

@@ -1,0 +1,13 @@
+# 系统级
+.DS_Store
+
+# 不必检查的后缀
+*.md
+*ignore
+.editorconfig
+
+# 忽略的文件
+package-lock.json
+
+# 生成的文件
+dist

@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "lib": ["dom", "esnext"],
+
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "jsx": "react",
+        "sourceMap": true,
+        "outDir": "./dist",
+
+        "noImplicitThis": true,
+        "alwaysStrict": true,
+        "strictNullChecks": true,
+        "strictFunctionTypes": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true
+    },
+    "include": ["./src/**/*"],
+    "exclude": ["./**/node_modules/**/*"]
+}

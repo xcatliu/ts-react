@@ -1,5 +1,7 @@
 # TypeScript React Boilerplate
 
+[![Build Status](https://travis-ci.org/xcatliu/ts-react.svg?branch=master)](https://travis-ci.org/xcatliu/ts-react)
+
 This is a boilerplate with tech below:
 
 - TypeScript

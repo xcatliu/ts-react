@@ -10,4 +10,4 @@
 package-lock.json
 
 # 生成的文件
-dist
+docs

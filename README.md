@@ -14,6 +14,9 @@ This is a boilerplate with tech below:
 ```bash
 npm i
 npm start
+
+# Build to docs
+npm run build
 ```
 
 Open http://localhost:8080/

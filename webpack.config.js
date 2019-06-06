@@ -6,7 +6,7 @@ const { CheckerPlugin } = require('awesome-typescript-loader');
 module.exports = {
     entry: './src/index.tsx',
     output: {
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'docs'),
         filename: 'bundle.js'
     },
     mode: 'development',
@@ -14,7 +14,6 @@ module.exports = {
         extensions: ['.ts', '.tsx', '.js', '.jsx']
     },
     devtool: 'source-map',
-    watch: true,
     module: {
         rules: [
             {
@@ -26,6 +25,6 @@ module.exports = {
     },
     plugins: [new CheckerPlugin()],
     devServer: {
-        contentBase: path.join(__dirname, 'dist')
+        contentBase: path.join(__dirname, 'docs')
     }
 };

@@ -7,7 +7,7 @@
         "moduleResolution": "node",
         "jsx": "react",
         "sourceMap": true,
-        "outDir": "./dist",
+        "outDir": "./docs",
 
         "noImplicitThis": true,
         "alwaysStrict": true,

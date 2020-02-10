@@ -27,7 +27,7 @@
         "@types/react-dom": "^16.8.4",
         "@types/react-redux": "^7.0.9",
         "@types/react-router-dom": "^4.3.3",
-        "@typescript-eslint/eslint-plugin": "^1.9.0",
+        "@typescript-eslint/eslint-plugin": "^2.19.1",
         "awesome-typescript-loader": "^5.2.1",
         "babel-eslint": "^10.0.1",
         "eslint": "^5.16.0",

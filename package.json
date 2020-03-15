@@ -42,7 +42,7 @@
         "webpack-dev-server": "^3.5.1"
     },
     "dependencies": {
-        "connected-react-router": "^6.4.0",
+        "connected-react-router": "^6.8.0",
         "history": "^4.9.0",
         "react": "^16.8.6",
         "react-dom": "^16.8.6",

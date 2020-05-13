@@ -33,7 +33,7 @@
         "eslint": "^5.16.0",
         "eslint-config-alloy": "^2.0.2",
         "eslint-config-prettier": "^4.3.0",
-        "eslint-plugin-react": "^7.13.0",
+        "eslint-plugin-react": "^7.20.0",
         "husky": "^2.3.0",
         "prettier": "^1.17.1",
         "typescript": "^3.5.1",
